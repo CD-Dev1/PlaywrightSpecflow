@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PlaywrightSpecflow
-build_property.ProjectDir = /Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/
+build_property.ProjectDir = /Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

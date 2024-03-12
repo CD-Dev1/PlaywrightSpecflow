@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/PlaywrightSpecflow.csproj": {}
+    "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/PlaywrightSpecflow.csproj": {}
   },
   "projects": {
-    "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/PlaywrightSpecflow.csproj": {
+    "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/PlaywrightSpecflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
+        "projectUniqueName": "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
         "projectName": "PlaywrightSpecflow",
-        "projectPath": "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
+        "projectPath": "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
         "packagesPath": "/Users/chris/.nuget/packages/",
-        "outputPath": "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/obj/",
+        "outputPath": "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chris/.nuget/NuGet/NuGet.Config"

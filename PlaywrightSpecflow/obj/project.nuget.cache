@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilLRQbpEObRt4x1ndbMOCzxS8ZuFDvll79hdO9yUdWl5RLcc56gvlOOyo5rI5EW8srHeIuGLeHAQ68qQQytdLA==",
+  "dgSpecHash": "UhdxSALgu5Egq/i2dtMrGfWrlW/nCWdpAOBE+aV08/Y7RE4Zlt/G+OApyz6khL+lCo0GnO1p2xkw1cLKjmZdAQ==",
   "success": true,
-  "projectFilePath": "/Users/chris/RiderProjects/PlaywrightSpecflow/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
+  "projectFilePath": "/Users/chris/Documents/Repos/PlaywrightSpecflowNew/PlaywrightSpecflow/PlaywrightSpecflow.csproj",
   "expectedPackageFiles": [
     "/Users/chris/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/Users/chris/.nuget/packages/cucumber.messages/6.0.1/cucumber.messages.6.0.1.nupkg.sha512",
